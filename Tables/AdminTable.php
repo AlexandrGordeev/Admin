@@ -56,7 +56,7 @@ class AdminTable extends Table
     /**
      * @var array
      */
-    private $_dynamicColumns = [];
+    protected $_dynamicColumns = [];
     /**
      * @var string
      */
